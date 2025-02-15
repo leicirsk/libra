@@ -1,0 +1,16 @@
+C:\Users\Administrator\source\repos\LIBRA\LIBRA\bin\Debug\LIBRA.exe.config
+C:\Users\Administrator\source\repos\LIBRA\LIBRA\bin\Debug\LIBRA.exe
+C:\Users\Administrator\source\repos\LIBRA\LIBRA\bin\Debug\LIBRA.pdb
+C:\Users\Administrator\source\repos\LIBRA\LIBRA\obj\Debug\LIBRA.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\LIBRA\LIBRA\obj\Debug\LIBRA.Properties.Resources.resources
+C:\Users\Administrator\source\repos\LIBRA\LIBRA\obj\Debug\LIBRA.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\LIBRA\LIBRA\obj\Debug\LIBRA.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\LIBRA\LIBRA\obj\Debug\LIBRA.exe
+C:\Users\Administrator\source\repos\LIBRA\LIBRA\obj\Debug\LIBRA.pdb
+C:\Users\Administrator\source\repos\LIBRA\LIBRA\obj\Debug\LIBRA.Register_Form.resources
+C:\Users\Administrator\source\repos\LIBRA\LIBRA\obj\Debug\LIBRA.MainForm.resources
+C:\Users\Administrator\source\repos\LIBRA\LIBRA\obj\Debug\LIBRA.LoginForm.resources
+C:\Users\Administrator\source\repos\LIBRA\LIBRA\obj\Debug\LIBRA.AddBooks.resources
+C:\Users\Administrator\source\repos\LIBRA\LIBRA\obj\Debug\LIBRA.Dashboard.resources
+C:\Users\Administrator\source\repos\LIBRA\LIBRA\obj\Debug\LIBRA.IssuedBooks.resources
+C:\Users\Administrator\source\repos\LIBRA\LIBRA\obj\Debug\LIBRA.ReturnedBooks.resources
